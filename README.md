@@ -61,3 +61,30 @@ This wireframe is a **High-Fidelity** wireframe.
 **Reason:**  
 It shows basic layout without visual design details / detailed design with typography and spacing, making it appropriate for early ideation / development handoff or usability testing.
 
+## Popular Wireframing Tools
+
+Wireframing tools help designers create visual layouts efficiently, collaborate with team members, and iterate quickly. Below are some of the most widely used tools in the industry:
+
+- **Figma**
+- **Balsamiq**
+- **Adobe XD**
+- **Sketch**
+- **Draw.io**
+- **Whimsical**
+- **Lucidchart**
+
+### Recommended Tool: Figma
+
+[Figma](https://www.figma.com) is a powerful, cloud-based design and prototyping tool that is highly popular among designers for wireframing and UI/UX design.
+
+#### Key Features:
+- **Collaborative Design:** Multiple users can work on the same file in real-time, making it ideal for teams.
+- **Cloud-Based:** No need for downloads or installations — access and edit files from any browser.
+- **Pre-built UI Components:** Offers a wide range of reusable design elements to speed up wireframe creation.
+- **Version Control:** Automatically saves file history so you can revert or track changes easily.
+- **Prototyping:** Allows you to link wireframes together for interactive user flow simulations.
+
+#### Why Figma Is Great for Wireframing:
+Figma makes it easy to create both low-fidelity and high-fidelity wireframes with drag-and-drop simplicity. Its intuitive interface, combined with real-time collaboration and powerful design features, makes it a go-to tool for beginners and professionals alike.
+
+Whether you're brainstorming early ideas or refining detailed layouts, Figma provides everything needed to bring your wireframes to life.
